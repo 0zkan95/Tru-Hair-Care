@@ -36,5 +36,13 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
 # Tru Hair Care
 
-<img src="img1.png" alt="app image" width="300" >
-<img src="img2.png" alt="app image" width="300" >
+<table>
+  <tr>
+    <td>
+      <img src="img1.png" alt="first image" width="300">
+    </td>
+    <td>
+      <img src="img2.png" alt="second image" width="300">
+    </td>
+  </tr>
+</table>
