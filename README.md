@@ -39,10 +39,10 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 <table>
   <tr>
     <td>
-      <img src="img1.png" alt="first image" width="300">
+      <img src="img1.png" alt="first image" width="400">
     </td>
     <td>
-      <img src="img2.png" alt="second image" width="300">
+      <img src="img2.png" alt="second image" width="400">
     </td>
   </tr>
 </table>
